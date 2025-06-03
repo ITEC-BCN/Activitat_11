@@ -197,4 +197,6 @@ class Baralla() {
         return resposta
     }
 
+    //Per ajudar als tests
+    fun pilaSize(): Int = pila.size
 }
